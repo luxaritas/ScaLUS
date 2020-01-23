@@ -1,0 +1,12 @@
+# Build
+target/
+
+# IDEs
+.vscode/
+.idea/
+.dotty-ide*
+
+# Metals stuff for using scala in vs code
+/.metals/
+/.bloop/
+project/metals.sbt
